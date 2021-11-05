@@ -1,1 +1,1 @@
-# RangoliComp
+# Rangoli Competition
